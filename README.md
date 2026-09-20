@@ -1,4 +1,5 @@
 # COVID-19 Global Analytics Dashboard
+![COVID-19 Dashboard](Screenshot%202026-07-08%20195402.png)
 
 An interactive COVID-19 analytics dashboard developed using Microsoft Power BI to analyze global COVID-19 cases, deaths, recoveries, and trends.
 
